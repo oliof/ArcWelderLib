@@ -340,3 +340,15 @@ ASALocalRun/
 healthchecksdb
 /DeployCodeToPlugin.bat
 /DeployCodeToPlugin_Exclude.txt
+=======
+*.pyc
+*.pyd
+*.swp
+.idea
+*.iml
+build
+dist
+*.egg*
+.DS_Store
+.vs/
+*.zip
